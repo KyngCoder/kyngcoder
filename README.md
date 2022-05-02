@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-  <img align="right" alt="Coding" width="100%" src="https://images.pexels.com/photos/7082185/pexels-photo-7082185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+  <img align="right" alt="Coding" width="100%" height="200px" src="https://images.pexels.com/photos/7082185/pexels-photo-7082185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
   <h3 align="left">Connect with me:</h3>
 
 
