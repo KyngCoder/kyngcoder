@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I wathced so much anime I could become a professioanl according to the 10,000 hour rule 😂
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyngcoder&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kyngcoder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
