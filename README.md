@@ -1,7 +1,7 @@
 ### Hi there 👋
   <img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/7082185/pexels-photo-7082185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
   <h3 align="left">Connect with me:</h3>
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
 
 <p align="left">
 <a href="https://twitter.com/kyngCoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -27,3 +27,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kyngcoder&theme=dracula&ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder)](https://git.io/streak-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
