@@ -28,4 +28,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder)](https://git.io/streak-stats)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](If you don't risk your life, you can't create a future. Right??type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
