@@ -7,7 +7,7 @@
  
  <div align="center" dir="auto">
    <a href="" rel="nofollow">
-     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width: 100%;" alt="instagram">
+<!--      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width: 100%;" alt="instagram"> -->
    </a>
   <a href="https://twitter.com/kyngCoder" rel="nofollow">
   <img src="https://camo.githubusercontent.com/13039975938e719b60e38191d050a182c1615f0e64a87494792c510ee111917a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
