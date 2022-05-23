@@ -51,9 +51,9 @@
 </div>
 
 
-<p dir="auto" style="width: 100%; margin="1rem" >
+<div align="center" margin="10px">
 <img src="https://github-profile-trophy.vercel.app/?username=kyngcoder&theme=dracula&ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" style="max-width:100%"; />
- </p>
+</div>
   
 
 
