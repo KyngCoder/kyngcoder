@@ -48,11 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kyngcoder&show_icons=true&theme=radical" align="center" width="40%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kyngcoder&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder" align="center" width="40%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder" style="max-width: 100%;">
-</div>
+</div>&nbsp
 
 
-<div align="center" >
-  &nbsp
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=kyngcoder&theme=dracula&ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" style="max-width:100%"; />
 </div>
   
