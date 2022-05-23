@@ -29,7 +29,7 @@
 </div>
   
 
-<div>
+<div align="center">
   <h3>Technologyies</h3>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -51,7 +51,7 @@
 </div>
 
 
-<p dir="auto" width="100%;">
+<p dir="auto" style="width: 100%; margin="1rem" >
 <img src="https://github-profile-trophy.vercel.app/?username=kyngcoder&theme=dracula&ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" style="max-width:100%"; />
  </p>
   
