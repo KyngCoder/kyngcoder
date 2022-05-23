@@ -42,10 +42,9 @@
  
 </div>
 
-<div>
-  <span><img src="https://github-readme-stats.vercel.app/api?username=kyngcoder&show_icons=true&theme=radical" /></span>
-   <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder(https://git.io/streak-stats)"</span>
- </div>
+<div align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/603c64fad068f2da6b64a9991e52101c95256b09d97dba4e7f952f232f5e6783/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c756364756d61732673686f775f69636f6e733d74727565266c6f63616c653d656e"><img src="https://camo.githubusercontent.com/603c64fad068f2da6b64a9991e52101c95256b09d97dba4e7f952f232f5e6783/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c756364756d61732673686f775f69636f6e733d74727565266c6f63616c653d656e" align="center" width="40%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kyngcoder&amp;show_icons=true&amp;locale=en" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5b733dfa8db7b6b1e920297bada4ee5df95441ced168f0ce268a0230ae671de4/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6c756364756d6173"><img src="https://camo.githubusercontent.com/5b733dfa8db7b6b1e920297bada4ee5df95441ced168f0ce268a0230ae671de4/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6c756364756d6173" align="center" width="40%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder" style="max-width: 100%;"></a>
+</div>
 
 
 <p dir="auto">
