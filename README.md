@@ -43,15 +43,14 @@
 </div>
 
 <div>
-  <span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyngcoder&show_icons=true&theme=radical)
-<pdir="auto"></span>
-    <span>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder)](https://git.io/streak-stats)</span>
-  </div>
+  <span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyngcoder&show_icons=true&theme=radical)</span>
+   <span>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder)](https://git.io/streak-stats)</span>
+ </div>
 
 
-
+<p dir="auto">
 <img src="https://github-profile-trophy.vercel.app/?username=kyngcoder&theme=dracula&ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" style="max-width:100%"; />
-  </p>
+ </p>
   
 
 
