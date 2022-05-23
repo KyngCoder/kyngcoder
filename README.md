@@ -67,12 +67,13 @@
   </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyngcoder&show_icons=true&theme=radical)
-
-<img src="https://github-profile-trophy.vercel.app/?username=kyngcoder&theme=dracula&ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" />
+<p dir="auto">
+<img src="https://github-profile-trophy.vercel.app/?username=kyngcoder&theme=dracula&ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" style="max-width:100%"; />
+  </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder)](https://git.io/streak-stats)
 
-<p dir="auto"><a href="https://github-profile-trophy.vercel.app/?username=kyngcoder&amp;theme=juicyfresh&amp;no-frame=true&amp;row=1&amp;&amp;margin-w=20&amp;no-bg=true" rel="nofollow"><img src="https://camo.githubusercontent.com/6d89a7c2c2413af80e99344aa4979cf9b7f6fc3cdfa9199181db3e822ef88e3b/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d736369656e636570616c267468656d653d6a756963796672657368266e6f2d6672616d653d7472756526726f773d3126266d617267696e2d773d3230266e6f2d62673d74727565" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=kyngcoder&theme=juicyfresh&amp;no-frame=true&amp;row=1&amp;&amp;margin-w=20&amp;no-bg=true" style="max-width: 100%;"></a></p>
+
 
 <h2 align="center" dir="auto"><a id="user-content---𝓣𝓱𝓪𝓷𝓴𝓼-𝓯𝓸𝓻-𝓻𝓮𝓪𝓭𝓲𝓷𝓰--" class="anchor" aria-hidden="true" href="#--𝓣𝓱𝓪𝓷𝓴𝓼-𝓯𝓸𝓻-𝓻𝓮𝓪𝓭𝓲𝓷𝓰--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">💖</g-emoji> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ <g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">💖</g-emoji></h2>
 </div>
