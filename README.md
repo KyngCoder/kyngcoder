@@ -44,7 +44,7 @@
 
 <div>
   <span><img src="https://github-readme-stats.vercel.app/api?username=kyngcoder&show_icons=true&theme=radical" /></span>
-   <span>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder)](https://git.io/streak-stats)</span>
+   <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder(https://git.io/streak-stats)"</span>
  </div>
 
 
