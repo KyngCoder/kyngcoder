@@ -1,8 +1,7 @@
 ### Hi there welcome to my lovely github page 👋
-<div>
-  <img align="right" alt="Coding" width="100%"  src="https://images.pexels.com/photos/7082185/pexels-photo-7082185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
-  <h3 align="left">Connect with me:</h3>
-<div >
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
  
  <div align="center" dir="auto">
