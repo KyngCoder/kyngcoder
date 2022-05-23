@@ -5,7 +5,7 @@
 
  
  <div align="center" dir="auto">
-  
+  <h3>Connect with me: </h3>
   <a href="https://www.instagram.com/kyngcoder/" rel="nofollow">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
@@ -30,6 +30,7 @@
   
 
 <div>
+  <h3>Technologyies</h3>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -43,13 +44,14 @@
 </div>
 
 <div align="center" dir="auto">
+  <h3>Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=kyngcoder&show_icons=true&theme=radical" align="center" width="40%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kyngcoder&amp;show_icons=true&amp;locale=en" style="max-width: 100%;">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder" align="center" width="40%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder" style="max-width: 100%;">
 </div>
 
 
-<p dir="auto">
+<p dir="auto" width="100%;">
 <img src="https://github-profile-trophy.vercel.app/?username=kyngcoder&theme=dracula&ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" style="max-width:100%"; />
  </p>
   
