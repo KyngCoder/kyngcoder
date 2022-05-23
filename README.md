@@ -42,38 +42,20 @@
  
 </div>
 
-
 <div>
-<p>
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/mapbox_ik768l.png" alt="mapbox-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849658/soap_oujliq.png" alt="soap-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849658/aws_zdxicw.jpg" alt="aws-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849657/ux-ui-logo_g1gptz.png" alt="ux-ui-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/stripe_wpdp4s.png" alt="stripe-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/algolia_pgipvv.png" alt="algolia-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849654/websockets_owvtbv.png" alt="websockets-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/redis_xtyczu.png" alt="redis-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/google_gqugc7.png" alt="autocomplete-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt="nodejs-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/sweetalert_fizd2k.png" alt="sweetalert-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/linkedin_obs3m2.png" alt="linkedin-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/pwa-logo_nxppg4.png" alt="pwa-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/new_cloudinary_logo_square_kninl9.png" alt="cloudinary-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/postmark_o4dr2s.png" alt="postmark-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849650/twilio_j6qvbk.png" alt="twilio-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/googlemaps_uujgzn.png" alt="googlemaps-logo">
-  </p>
+  <span>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyngcoder&show_icons=true&theme=radical)
+<pdir="auto"></span>
+    <span>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder)](https://git.io/streak-stats)</span>
   </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyngcoder&show_icons=true&theme=radical)
-<p dir="auto">
+
+
 <img src="https://github-profile-trophy.vercel.app/?username=kyngcoder&theme=dracula&ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" style="max-width:100%"; />
   </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder)](https://git.io/streak-stats)
+  
 
 
 
 <h2 align="center" dir="auto"><a id="user-content---𝓣𝓱𝓪𝓷𝓴𝓼-𝓯𝓸𝓻-𝓻𝓮𝓪𝓭𝓲𝓷𝓰--" class="anchor" aria-hidden="true" href="#--𝓣𝓱𝓪𝓷𝓴𝓼-𝓯𝓸𝓻-𝓻𝓮𝓪𝓭𝓲𝓷𝓰--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">💖</g-emoji> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ <g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">💖</g-emoji></h2>
+
 </div>
