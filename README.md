@@ -50,8 +50,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder" align="center" width="40%" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=kyngcoder" style="max-width: 100%;">
 </div>
 
-&nbsp
-<div align="center" margin="10px">
+
+<div align="center" >
+  &nbsp
 <img src="https://github-profile-trophy.vercel.app/?username=kyngcoder&theme=dracula&ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy" style="max-width:100%"; />
 </div>
   
