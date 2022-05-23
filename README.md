@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there welcome to my lovely github page 👋
 <div>
   <img align="right" alt="Coding" width="100%"  src="https://images.pexels.com/photos/7082185/pexels-photo-7082185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
   <h3 align="left">Connect with me:</h3>
-
+<div >
 
 <p align="left">
 <a href="https://twitter.com/kyngCoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -10,11 +10,11 @@
 <a href="https://www.instagram.com/kyngcoder/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
 </p>
-
+  </div>
 
 
 <!-- icons -->
-
+<div>
 <p> 
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
@@ -23,8 +23,9 @@
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/ruby_nrq1jy.png" alt="ruby-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850690/rails_1_vess2v.png" alt="rails-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo">
-</p>
-
+</p
+  <div>
+<div>
 <p>
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/mapbox_ik768l.png" alt="mapbox-logo">
@@ -45,6 +46,7 @@
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849650/twilio_j6qvbk.png" alt="twilio-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/googlemaps_uujgzn.png" alt="googlemaps-logo">
   </p>
+  </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyngcoder&show_icons=true&theme=radical)
 
